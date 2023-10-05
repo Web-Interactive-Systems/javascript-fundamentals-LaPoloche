@@ -26,3 +26,6 @@ npm-debug.log*
 .idea
 
 __sol
+labo1-functions/package.json
+labo1-functions/jest.config.js
+labo1-functions/yarn.lock
